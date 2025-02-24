@@ -1,5 +1,6 @@
 # JaquelineGarciaYi-HW1
-E115 Homework 1: Creating a Docker Container for Data Science
+
+**Homework 1 for E115**: Creating a Docker Container for Data Science
 
 **Instructions**
 
